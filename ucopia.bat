@@ -1,3 +1,4 @@
+::Non testé sur windows
 @echo off
 REM Telechargez http://curl.haxx.se/download.html
 

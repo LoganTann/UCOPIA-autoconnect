@@ -1,4 +1,6 @@
-#!/bin/sh
+# Fork de la brache originale afin de corriger un micro bug sur linux (modification de l'emulateur de terminal par bash au lieu de Sh).
+
+#!/bin/bash
 
 # Veuillez saisir votre identifiant et votre mot de passe ci-dessous
 login="mon_identifiant"

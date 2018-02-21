@@ -2,7 +2,9 @@ Ucopia-Autoconnect : Se connecter automatiquement à UCOPIA avec la Command (Win
 
 ### notes de contributeurs
 Modification de ce repository :
+
 -j'ai corrigé quelques bugs avec le script shell vis à vis de Linux
+
 -J'ai aussi mis à ma sauce le code batch :)
 
 testé uniquement sur linux,je ne suis par responsable en cas de problèmes.

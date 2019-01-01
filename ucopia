@@ -1,5 +1,3 @@
-# Fork de la brache originale afin de corriger un micro bug sur linux (modification de l'emulateur de terminal par bash au lieu de Sh).
-# et changement du timeout car considère comme déconnecté au bout d'un certain temps celon les routeurs ucopia
 #!/bin/bash
 
 # Veuillez saisir votre identifiant et votre mot de passe ci-dessous
